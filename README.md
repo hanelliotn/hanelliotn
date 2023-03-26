@@ -2,7 +2,7 @@
 
 [![Website][1]](https://hannguyen.io)
 [![Email][2]](mailto:hannguyendev@gmail.com)
-[![LinkedIn][3]](https://www.linkedin.com/in/nnkh)
+[![LinkedIn][3]](https://www.linkedin.com/in/hannady)
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
 [![Leetcode][5]](https://leetcode.com/hanedachi)
 
@@ -14,7 +14,7 @@ development that involve Github APIs, AWS, Docker, Jenkins, Grafana and Shell,
 with Python and Java as main programming languages.
 
 I would love to grow my skills in the field of data science or AI/ML. For 
-inquiries, please contact me via Gmail button above. Thank you!
+inquiries, please contact me via Gmail button above.
 
 <!--
 
