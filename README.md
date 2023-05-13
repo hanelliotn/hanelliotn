@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hello%2C+Han+is+here!;I'm+a+software+engineer+with+2+YOE.;I'm+also+an+amateur+pianist.)](https://gojeonhan.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hello%2C+Han+is+here!;I'm+a+software+engineer+with+2+YOE.;I'm+also+an+amateur+pianist.)](https://hanbmax.github.io)
 
 [![Website][1]](https://hannguyen.io)
 [![Email][2]](mailto:hannguyendev@gmail.com)
-[![LinkedIn][3]](https://www.linkedin.com/in/hannady)
+[![LinkedIn][3]](www.linkedin.com/in/han-nguyen-84583a114)
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
 [![Leetcode][5]](https://leetcode.com/hanedachi)
 
