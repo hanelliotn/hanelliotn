@@ -2,7 +2,7 @@
 
 [![Website][1]](https://hanelliotn.github.io)
 [![Email][2]](mailto:hanelliotn@gmail.com)
-[![LinkedIn][3]](https://linkedin.com/in/han-nguyen-84583a114)
+[![LinkedIn][3]](https://linkedin.com/in/hanelliotn)
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
 [![Leetcode][5]](https://leetcode.com/hanelliotn)
 
