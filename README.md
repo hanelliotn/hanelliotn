@@ -2,9 +2,9 @@
 
 [![Website][1]](https://hanelliotn.github.io)
 [![Email][2]](mailto:hanelliotn@gmail.com)
-[![LinkedIn][3]](www.linkedin.com/in/han-nguyen-84583a114)
+[![LinkedIn][3]](https://linkedin.com/in/han-nguyen-84583a114)
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
-[![Leetcode][5]](https://leetcode.com/hanedachi)
+[![Leetcode][5]](https://leetcode.com/hanelliotn)
 
 
 I graduated from the [University of California, Davis](https://cs.ucdavis.edu/) 
