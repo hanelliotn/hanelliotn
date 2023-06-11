@@ -13,7 +13,7 @@ engineer at [Salesforce](https://www.salesforce.com/) working primarily on cloud
 development that involve Github APIs, AWS, Docker, Jenkins, Grafana and Shell, 
 with Python and Java as main programming languages.
 
-I would love to grow my skills in the field of data science, AI/ML and bioinformatics. 
+I would love to grow my skills in the field of data science and AI/ML. 
 For inquiries, please contact me via Gmail button above.
 
 <!--
