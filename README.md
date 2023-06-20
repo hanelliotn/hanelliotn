@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FF7070D&size=18&vCenter=true&height=16&lines=Hello%2C+Han+is+here!;I'm+a+software+engineer+with+2+YOE.;I'm+also+an+amateur+pianist.)](https://hanbmax.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FF7070D&size=18&vCenter=true&height=16&lines=Hello%2C+Han-E+is+here!;I'm+a+software+engineer+with+2+YOE.;I'm+also+an+amateur+pianist.)](https://hanelliotn.github.io)
 
 [![Website][1]](https://hanelliotn.github.io)
 [![Email][2]](mailto:hanelliotn@gmail.com)
